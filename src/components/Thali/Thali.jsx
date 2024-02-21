@@ -13,6 +13,7 @@ const Thali=()=>{
     const mainQuantity =useSelector((state)=>state.restroThali.totalQuantity)
     useEffect(()=>{
       dispatch(add_data(Data))
+      "hello world"
     },[])
     console.log(itemSearched)
     console.log(item)
