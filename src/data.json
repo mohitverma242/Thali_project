@@ -1,0 +1,9 @@
+[{"id":1,"dish":"Paneer curry","quantity":1,"price":150,"description":"This is the finest blend of indian spice with indian cheese(paneer) ", "image":"https://media.istockphoto.com/id/968505648/photo/indian-food-or-indian-curry-in-a-copper-brass-serving-bowl-with-bread-or-roti.jpg?s=1024x1024&w=is&k=20&c=UzIUgjHB6AYWlNcTBqwHhkaUo7eJbk6OvRvtYKqUgYw="},
+
+{"id":2,"dish":"Chapatti","quantity":1,"price":10,"description":"Made with white flour and cooked perfectly and serve with ghee.", "image":"https://img.freepik.com/premium-photo/indian-cuisine-chapati-white-background_55610-598.jpg?w=1060"},
+
+{ "id":3,"dish":"Curd","description":"Made by good quality buffalo milk ","quantity":1,"price":30, "image":"https://img.freepik.com/premium-photo/healthy-natural-yoghurt-wooden-table_51137-2737.jpg?w=996"},
+{ "id":4,"dish":"Pickle","quantity":1,"description":"Blend with indian spicies","price":20, "image":"https://img.freepik.com/premium-photo/homemade-mango-pickle-aam-ka-achar-kairi-loncha-bowl-selective-focus_466689-61218.jpg?w=996"},
+{ "id":5,"dish":"Gulab jamun","quantity":1,"description":"Indian sweet dish best serve hot wiht sugar syrup.","price":30, "image":"https://img.freepik.com/premium-photo/indian-sweet-food-gulab-jamun-served-round-ceramic-bowl_466689-71991.jpg?w=996"},
+{ "id":6,"dish":"Daal","quantity":1,"description":"Indian pulse made with good ingredients and butter.","price":80, "image":"https://img.freepik.com/premium-photo/dal-makhani-dal-makhni-is-north-indian-recipe-served-bowl-selective-focus_466689-79104.jpg?w=996"}
+]
